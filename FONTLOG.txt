@@ -16,7 +16,7 @@ Crooli Sans keeps Geist's outlines unchanged. It promotes four of Geist's own
 stylistic alternates to the default forms:
 
   ss02  single-storey a       (the double-storey a moves to ss02)
-  ss04  straight-leg R        (the Geist R moves to ss04)
+  ss04  diagonal-leg R        (the Geist R moves to ss04)
   ss06  spurless G            (the Geist G moves to ss06)
   ss08  round dots            (the square dots move to ss08)
 

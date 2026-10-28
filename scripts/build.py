@@ -35,7 +35,7 @@ REPO = "https://github.com/xandertaylorx/crooli-sans"
 # the feature (it now switches back to the Geist form).
 CHARACTER = {
     "ss02": "Double-storey a",  # default: single-storey a
-    "ss04": "Classic R",        # default: straight-leg R
+    "ss04": "Classic R",        # default: diagonal-leg R
     "ss06": "Classic G",        # default: spurless G
     "ss08": "Square dots",      # default: round dots and punctuation
 }

@@ -53,8 +53,8 @@ The stylistic sets that Crooli Sans turns on by default now switch back to the G
 | Feature | Crooli default | With the feature on |
 | --- | --- | --- |
 | `ss02` | single-storey a | double-storey a |
-| `ss04` | straight-leg R | Geist R |
-| `ss06` | spurless G | Geist G |
+| `ss04` | diagonal-leg R | Geist straight-leg R |
+| `ss06` | spurless G | Geist G with spur |
 | `ss08` | round dots | square dots |
 
 Geist's other features work as before, including `ss01` (no-tail a), `ss03` (plain l), `ss05` (serif I), `ss07` (alternate arrows), `ss09` (slashed zero), `tnum`, `frac`, `case`, `sups` and `subs`.
