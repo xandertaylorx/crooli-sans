@@ -1,0 +1,50 @@
+FONTLOG for Crooli Sans
+=======================
+
+This file records the changes made to Crooli Sans, as recommended by the
+SIL Open Font License.
+
+
+Basic font information
+----------------------
+
+Crooli Sans is the typeface of Crooli (https://crooli.com). It is a modified
+version of Geist 1.800 (https://github.com/vercel/geist-font), released under
+the SIL Open Font License 1.1. Geist has no Reserved Font Name.
+
+Crooli Sans keeps Geist's outlines unchanged. It promotes four of Geist's own
+stylistic alternates to the default forms:
+
+  ss02  single-storey a       (the double-storey a moves to ss02)
+  ss04  straight-leg R        (the Geist R moves to ss04)
+  ss06  spurless G            (the Geist G moves to ss06)
+  ss08  round dots            (the square dots move to ss08)
+
+
+ChangeLog
+---------
+
+28 October 2026 (Crooli) Crooli Sans 1.000
+- Forked from Geist 1.800: 18 static styles and 2 variable fonts.
+- Promoted ss02, ss04, ss06 and ss08 to the defaults by exchanging glyph
+  shapes, so outlines, advances, kerning, mark anchors and variations travel
+  with each shape.
+- Renamed the family to Crooli Sans, with correct style linking for all
+  weights, and set the vendor ID to CROO.
+- Relabelled the swapped stylistic sets.
+
+
+Acknowledgements
+----------------
+
+N: Basement.studio, Andrés Briganti, Mateo Zaragoza
+W: https://basement.studio
+D: Original Geist design
+
+N: Vercel
+W: https://vercel.com/font
+D: Geist project
+
+N: Crooli
+W: https://crooli.com
+D: Crooli Sans fork and build
